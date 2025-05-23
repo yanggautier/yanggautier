@@ -69,8 +69,9 @@ Automatisation de workflows data (ventes) utilisant **Kestra, DuckDB, et Docker*
 ## 💻 Github 
 ![Gauthier's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanggautier&show_icons=true&theme=dracula)
 
+---
 ## 🔨 Temps
-![Gauthier's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yanggautier)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanggautier&hide_progress=true)
 
-
+---
 ✨ **Envie de collaborer ?** Contactez-moi via [email](mailto:yangguole@outlook.com) ou [LinkedIn](https://linkedin.com/in/yangguole) !

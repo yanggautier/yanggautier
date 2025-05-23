@@ -39,7 +39,7 @@ Automatisation de workflows data (ventes) utilisant **Kestra, DuckDB, et Docker*
 
 | Catégorie         | Technologies                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
-| **Langages**      | Python, SQL, Java                                                          |
+| **Langages**      | Python, SQL, Java, Scala                                                  |
 | **Big Data**      | PySpark, Apache Beam, DBT, Airflow, Debezium                               |
 | **Cloud**         | AWS/GCP/Azure Certified, Snowflake, Databricks, Fabric                     |
 | **Bases de Données** | PostgreSQL, MySQL, MongoDB, Redis                                        |
@@ -65,5 +65,7 @@ Automatisation de workflows data (ventes) utilisant **Kestra, DuckDB, et Docker*
 - 🇨🇳 Chinois (Natif) | 🇫🇷 Français (Compétent) | 🇬🇧 Anglais (Avancé)  
 
 ---
+
+[![Gauthier's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanggautier)](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ **Envie de collaborer ?** Contactez-moi via [email](mailto:yangguole@outlook.com) ou [LinkedIn](https://linkedin.com/in/yangguole) !

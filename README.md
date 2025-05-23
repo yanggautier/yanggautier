@@ -9,12 +9,6 @@
 
 **DATA ENGINEER** avec une solide expérience dans la conception et la mise en œuvre d'infrastructures de données modernes. Spécialisé dans les pipelines ETL, le streaming de données et le Machine Learning, je combine expertise technique et vision stratégique pour optimiser le cycle de vie des données.  
 
-🔹 **Expertise** :  
-- **Cloud** : AWS, GCP, Azure  
-- **Data Processing** : Spark, Airflow, Debezium, Redpanda  
-- **Data Storage** : PostgreSQL, Delta Lake, BigQuery  
-- **Data Science** : ML, Predictive Analytics, GenAI (Azure OpenAI)  
-
 ---
 
 ## 🛠️ Projets Récents
@@ -42,7 +36,7 @@ Automatisation de workflows data (ventes) utilisant **Kestra, DuckDB, et Docker*
 | **Langages**      | Python, SQL, Java, Scala                                                  |
 | **Big Data**      | PySpark, Apache Beam, DBT, Airflow, Debezium                               |
 | **Cloud**         | AWS/GCP/Azure Certified, Snowflake, Databricks, Fabric                     |
-| **Bases de Données** | PostgreSQL, MySQL, MongoDB, Redis                                        |
+| **Bases de Données** | PostgreSQL, MySQL, MongoDB                                           |
 | **DataViz/API**   | Tableau, PowerBI, Superset, Streamlit, Flask                               |
 | **DevOps**        | Docker, Terraform, Kubernetes, Jenkins                                     |
 

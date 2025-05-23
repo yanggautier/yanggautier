@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Profil Professionnel
 
-**DATA ENGINEER** avec une solide expérience dans la conception et la mise en œuvre d'infrastructures de données modernes. Spécialisé dans les pipelines ETL, le streaming de données et le Machine Learning, je combine expertise technique et vision stratégique pour optimiser le cycle de vie des données.  
+Actuellement à la recherche d'un poste de **DATA ENGINEER Junior** basé en Ile de France
 
 ---
 

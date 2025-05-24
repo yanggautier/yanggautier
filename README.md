@@ -49,7 +49,7 @@ Automatisation de workflows data (ventes) utilisant **Kestra, DuckDB, et Docker*
 ## 📚 Formation  
 - **Data Engineer (Bac+5)** - OpenClassrooms (2024-2025)  
 - **Data & IA (Bac+4)** - Simplon.co (2020-2021)  
-
+- **UFR Informatique** - Paris VII Didérot  (2008-2011)  
 ---
 
 ## 🌍 Langues  

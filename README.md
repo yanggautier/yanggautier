@@ -62,6 +62,7 @@ Automatisation de workflows data (ventes) utilisant **Kestra, DuckDB, et Docker*
 ## 🔨 Langages plus utilisés
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanggautier&hide_progress=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yanggautier&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ---
 
 ## Carte de statut sur WakaTime

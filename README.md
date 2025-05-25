@@ -1,7 +1,5 @@
 # 🚀 Guole Yang - Data Engineer
 
-Actuellement à la recherche d'un poste de **DATA ENGINEER Junior** 
-
 
 **📍 Paris, France**  
 📧 yangguole@outlook.com | 🔗 [LinkedIn](https://linkedin.com/in/yangguole) | 🌐 [Portfolio](https://yanggautier.github.io)  

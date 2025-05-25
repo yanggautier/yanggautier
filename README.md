@@ -63,4 +63,10 @@ Automatisation de workflows data (ventes) utilisant **Kestra, DuckDB, et Docker*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanggautier&hide_progress=true)
 
 ---
+
+## Carte de statut sur WakaTime
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yanggautier)
+
+
+---
 ✨ **Envie de collaborer ?** Contactez-moi via [email](mailto:yangguole@outlook.com) ou [LinkedIn](https://linkedin.com/in/yangguole) !

@@ -8,6 +8,15 @@
 
 ## 🛠️ Projets Récents
 
+## Déploiement d'une architecture complet de data sur GCP avec terraform et Cloud Build:
+- **Cloud SQL PostgreSQL** comme base de données OLTP
+- **BigQuery** en tant que datawarehouse
+- **Datastream** pour capture les changements de données dans PostgreSQL vers BigQuery
+- **DBT** pour la transformation de donnée
+- **Superset** déployé sur **GKE** pour la visualisation de données
+- **Terraform** outil infrastructure as code pour le déploiement des ensembles de ressources dans GCP
+- **Cloud Build** pour le CI/CD
+
 ### 🌐 **Infrastructure Moderne pour Avantages Sportifs**  
 Conception d'une architecture complète avec :  
 - **Debezium** (CDC), **Redpanda** (streaming), **Spark/Delta Lake** (traitement)  

@@ -50,7 +50,7 @@ Automatisation de workflows data (ventes) utilisant **Kestra, DuckDB, et Docker*
 - **AWS Certified Data Engineer**  
 - **GCP Professional Data Engineer**  
 - **Azure DP-203 (Data Engineer)**  
-- **Azure DP_700 (Fabric Data Engineer)**
+- **Azure DP-700 (Fabric Data Engineer)**
 ---
 
 ## 📚 Formation  
